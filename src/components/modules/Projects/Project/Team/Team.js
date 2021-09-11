@@ -9,7 +9,7 @@ const Team = (props) => {
   return (
     <Wrapper>
       <h4>
-        <u>Team</u>
+        <u>Teams</u>
       </h4>
       <TeamContentContainer>
         <p style={{ width: "50%" }}>
